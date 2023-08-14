@@ -8,7 +8,7 @@ class Translator:
 
     def init_google_professional(self):
         # Your Translate API key
-        api_key = 'AIzaSyBqFhQEsf0m_k01EvX2_ePnOQyWv5WhzXA'
+        api_key = ''
         # Instantiates a client
         self.translate_client = translate.Client(api_key)
 
