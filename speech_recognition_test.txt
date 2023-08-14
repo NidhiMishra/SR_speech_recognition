@@ -1,0 +1,88 @@
+C:\Python27\python.exe G:/IMI-PROJECTS/i2p_Nadine_Robot/development/i2p_perception/i2p_speech_recognition/SpeechRecognizer.py
+G:\IMI-PROJECTS\i2p_Nadine_Robot\development\i2p_perception\i2p_speech_recognition\nadine_speech_recognition_0c68d0adb46e.json
+Speaking
+Text of Free Recognizer:  None
+Response Time of Free Recognizer:  0.359999895096
+Text of Professional Recognizer:  None
+Response Time of Professional Recognizer:  1.44199991226
+Speaking
+Text of Free Recognizer:  (u'hello', 0.98267901)
+Response Time of Free Recognizer:  0.413999795914
+Text of Professional Recognizer:  (u'hello', 0.982679)
+Response Time of Professional Recognizer:  1.56100010872
+Speaking
+Text of Free Recognizer:  (u'nice to meet you', 0.98267901)
+Response Time of Free Recognizer:  0.530999898911
+Text of Professional Recognizer:  (u'nice to meet you', 0.9413076)
+Response Time of Professional Recognizer:  2.28699994087
+Speaking
+Text of Free Recognizer:  (u'using power ring', 0.4702929)
+Response Time of Free Recognizer:  0.81299996376
+Text of Professional Recognizer:  (u'housing for rent', 0.46411636)
+Response Time of Professional Recognizer:  2.68600010872
+Speaking
+Text of Free Recognizer:  (u'what is the weather in Singapore', 0.96108323)
+Response Time of Free Recognizer:  0.805999994278
+Text of Professional Recognizer:  (u'what is the weather in Singapore', 0.79211634)
+Response Time of Professional Recognizer:  2.63700008392
+Speaking
+Text of Free Recognizer:  (u'who is the president of Singapore', 0.98267895)
+Response Time of Free Recognizer:  0.881000041962
+Text of Professional Recognizer:  (u'who is the president of Singapore', 0.98267895)
+Response Time of Professional Recognizer:  3.41299986839
+Speaking
+Text of Free Recognizer:  None
+Response Time of Free Recognizer:  1.02500009537
+Text of Professional Recognizer:  (u'who is the president of India', 0.88879234)
+Response Time of Professional Recognizer:  3.51200008392
+Speaking
+Text of Free Recognizer:  None
+Response Time of Free Recognizer:  1.01999998093
+Text of Professional Recognizer:  (u'who is the president of India', 0.88524747)
+Response Time of Professional Recognizer:  3.97900009155
+Speaking
+Text of Free Recognizer:  (u'who is the president of NTU', 0.94939077)
+Response Time of Free Recognizer:  0.947000026703
+Text of Professional Recognizer:  (u'who is the president of ngu', 0.9764285)
+Response Time of Professional Recognizer:  3.55999994278
+Speaking
+Text of Free Recognizer:  (u'who is the director of Institute for media innovation', 0.98267895)
+Response Time of Free Recognizer:  1.31599998474
+Text of Professional Recognizer:  (u'who is the director of Institute for media innovation', 0.8742386)
+Response Time of Professional Recognizer:  5.18099999428
+Speaking
+Text of Free Recognizer:  None
+Response Time of Free Recognizer:  0.605999946594
+Text of Professional Recognizer:  (u'who is Jen', 0.73527914)
+Response Time of Professional Recognizer:  2.58599996567
+Speaking
+Text of Free Recognizer:  (u'who is James', 0.90922278)
+Response Time of Free Recognizer:  0.503999948502
+Text of Professional Recognizer:  (u'who is James', 0.9292519)
+Response Time of Professional Recognizer:  2.44500017166
+Speaking
+Text of Free Recognizer:  (u'who is Daniel', 0.92547202)
+Response Time of Free Recognizer:  0.651999950409
+Text of Professional Recognizer:  (u'who is Daniel', 0.95843583)
+Response Time of Professional Recognizer:  2.43600010872
+Speaking
+Text of Free Recognizer:  (u'who is Nadia Magneto man', 0.70301318)
+Response Time of Free Recognizer:  1.29600000381
+Text of Professional Recognizer:  (u'who is Nadia not Beethoven', 0.72851574)
+Response Time of Professional Recognizer:  3.7610001564
+Speaking
+Text of Free Recognizer:  None
+Response Time of Free Recognizer:  0.394000053406
+Text of Professional Recognizer:  None
+Response Time of Professional Recognizer:  1.59700012207
+Speaking
+Text of Free Recognizer:  None
+Response Time of Free Recognizer:  0.359999895096
+Text of Professional Recognizer:  None
+Response Time of Professional Recognizer:  1.46499991417
+Speaking
+Text of Free Recognizer:  (u'who is Nadia', 0.96617538)
+Response Time of Free Recognizer:  0.552000045776
+Text of Professional Recognizer:  (u'who is Nadia', 0.9661754)
+Response Time of Professional Recognizer:  2.44899988174
+Speaking

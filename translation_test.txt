@@ -1,0 +1,23 @@
+C:\Python27\python.exe G:/IMI-PROJECTS/i2p_Nadine_Robot/development/i2p_perception/i2p_speech_recognition/Translator.py
+Your sentence: hello
+Free Translation:  Bonjour
+Google Translation:  Bonjour
+Your sentence: nice to meet you
+Free Translation:  Ravi de vous rencontrer
+Google Translation:  Ravi de vous rencontrer
+Your sentence: how are you
+Free Translation:  Comment allez-vous
+Google Translation:  Comment allez-vous
+Your sentence: who is the director of institute for media innovation
+Free Translation:  Qui est le directeur de l&#39;institut pour l&#39;innovation des médias
+Google Translation:  qui est le directeur de l&#39;institut pour l&#39;innovation des médias
+Your sentence: what time is it
+Free Translation:  quelle heure est-il
+Google Translation:  quelle heure est-il
+Your sentence: who is the president of singapore
+Free Translation:  Qui est le président de singapour
+Google Translation:  qui est le président de singapour
+Your sentence: what is your favorite food
+Free Translation:  quel est votre plat préféré
+Google Translation:  quel est votre plat préféré
+Your sentence: 

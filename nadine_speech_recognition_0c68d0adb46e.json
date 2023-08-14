@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seventh-terrain-147700",
+  "private_key_id": "0c68d0adb46ee6f96dbb74b7c28b2a4b8e23eddc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHLg8WKsZ7H7dV\ngY7C/RlIzFIhBlGtF690LpfY+gq9Zhg7adZx3raW7gJq3m6Ce9b1fN1TX6sVZZGX\nRvSyGikHkY2BFYRXFXgbz1dt4YJqF3XUPPeHVjEpWccjiHjOq7DDZsCCiW1fB742\n8ggXi9PnyELUaWeuiNySrnCBJZ5ZTbHhIk0a/YV6T+r8Ws7v9BhVxo9caKPVf+Ka\nuKyjkE4fvx5whujJpcbk6IxPWRhj/DSGm3o69jutk8M1xNSAJXZYtBkrW2GMvwwu\nq4hXXZ3u8Clt2nGi8KcLNf2q3V0A4eE/bYMEckMkYvRlLHKOOw02y/z0Ex+dSHYM\nlakHg4IFAgMBAAECggEAA0B/Qo9kOjJkXeMFn61eMlATrzJZNwhB9xWjqQk8D6eR\nEbdCpw1J0eEE7RXAnCTFd7CYNHpFYs4LuHqSGC5RKSx5MPhW9s0E7v9NoB+kb3L+\nm357VBxWJSSwGaZqwoUPF8GftwHjZT/NHTyKYUgJJ6mfXbRy2uilIUfz0kf48+BH\ncT5c6ckZKYWJTk8wWkw5xZwVGN/0UkaW6kAHUlWzlDPaIATc20fOtnKkD/c6Abdd\n/D9V2r4w9gO0YkFq5LmQUaoF8QpKCdPmiVU347degPt5JIGRa4yMM9p8cna6kX79\nK2Gby1Zpyupp+LzqdYnIR/5zGC9xGGnD+3KGtmSVqQKBgQD9IqlaCr4mLqhMDHCb\niiTIFfk+2BrcWsFNJAJPnE78ZI1qE/kaJsMYP9TPnAlpW9LKc1S8FCoQcbvpP/TP\nOytepvYSr+pu5UZla70IppjqWWzgUg0CIXrM5XgSiwi/T4DISfXtJ+TPGJbaLjP0\nEXzOgOHfOEf84LQ8BBViCq/szwKBgQDJbxZXCRE1hG4AlstrBu1xTjEnIupxSyeR\n6c5kHnUEtwYVDOLFgqqy4+p2sZE+1hGPfaq504bbRjYFg39bXb/xmUG1XEh+0/yh\nrmojmBBAqKiUPSC2iR/H3ken6ArrKCeEiKkRkWCulY6kOhud9b8+w53GA+teGx3x\nAqMrfjDg6wKBgCUJjkfbbIj/qKY/57YKV2ljNa3JRtzY9pGH5EKrty7cs4hC1d7K\nrx78L/IUfZgJ1GTEzTAbry/qxDjTn8k2ehkGStjfHmkNaOhsBCOg5Jzdar3Do52d\nMm+KX7Au4Z/ETS6BC9egT60xhtjzi6x5Zo58cxALFxVb92MUoeBPegAnAoGAMMGh\nv6ljL/gBBEV7sUk4+d76SMXLx2ZwioH0QgmZO23tm/TFgxcwqCJAo0Axrurzzy6U\nv2vyzWp+MvF0RzI2/oyg+fv/VCuNj7j+2eS5slzgiRkOrQAd4CvuXjbtRaQvhIXr\nnmP46ekrYJbsDlzoUJHaw445T0rzAV4pDqL5w8cCgYEAgbagdVXGoXSAgjKM1kC+\nCS2EaFM0sAk71QC97FcABjzbKpPuS4qNjWR/Ka2Xblm7YL140TQEGvAyXgdHtjYt\nH86LCO/eMz7EiZN9EW4AXEOhGFvxP4cDCuvNb+lhYbda9W9FQeZFAyZMBEKLB7V5\n3nzgIDH9N/AAQb39u0C0hQg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nadine-speech-recognition@seventh-terrain-147700.iam.gserviceaccount.com",
+  "client_id": "102173263362093832558",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nadine-speech-recognition%40seventh-terrain-147700.iam.gserviceaccount.com"
+}
